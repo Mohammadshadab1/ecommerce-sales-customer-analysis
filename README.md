@@ -1,3 +1,4 @@
+![Project Banner](./Images/banner.svg)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![Pandas](https://img.shields.io/badge/Pandas-1.5%2B-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
 [![Seaborn](https://img.shields.io/badge/Seaborn-0.12%2B-38BDF8?style=for-the-badge)](https://seaborn.pydata.org/)
