@@ -77,3 +77,14 @@ ecommerce-sales-customer-analysis/
 ├── Persentation/                 # 10-Slide Executive PDF Presentation Deck
 ├── Raw Data/                     # Raw transactional dataset
 └── README.md                     # Project documentation & summary
+
+## 👤 Author & Contact Details
+
+*Created by:* Mohammad Shadab  
+Data Analyst
+
+* 📄 *Resume:* [View Resume (PDF)](./Mohammad_Shadab_Resume.pdf)
+* 💼 *LinkedIn:* [Mohammad Shadab](https://linkedin.com)
+* 🐙 *GitHub:* [Mohammadshadab1](https://github.com/Mohammadshadab1)
+* 🌐 *Portfolio:* [Mohammad Shadab Portfolio](https://your-portfolio-link.com)
+* 📊 *Presentation Deck:* Included in the [/Persentation](./Persentation) folder[span_0](start_span)[span_0](end_span)
