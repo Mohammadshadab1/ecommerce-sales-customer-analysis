@@ -69,7 +69,7 @@ An end-to-end Data Analytics project analyzing over *12,000 retail transaction r
 
 ## 📂 Project Repository Structure
 
-text
+<pre>
 ecommerce-sales-customer-analysis/
 │
 ├── Clean Data/                   # Cleaned and processed dataset
@@ -78,6 +78,7 @@ ecommerce-sales-customer-analysis/
 ├── Persentation/                 # 10-Slide Executive PDF Presentation Deck
 ├── Raw Data/                     # Raw transactional dataset
 └── README.md                     # Project documentation & summary
+  <pre>
 
 
 ## 👤 Author & Contact Details
