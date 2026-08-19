@@ -10,9 +10,9 @@ An end-to-end Data Analytics project analyzing over *12,000 retail transaction r
 
 ## 📌 Executive Summary & Key Performance Indicators (KPIs)
 
-* *Total Gross Revenue:* $1,390,000 ($1.39M)
+* *Total Gross Revenue:* $1,410,000 ($1.41M)
 * *Total Orders Processed:* 12,000 (12.00K)
-* *Average Order Value (AOV):* $115.04
+* *Average Order Value (AOV):* $117.38
 * *Repeat Customer Rate:* 88.47% (Reflects strong customer brand equity)
 * *Order Delivery Success Rate:* 54.82% (Operational bottleneck for fulfillment improvement)
 
