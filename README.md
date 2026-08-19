@@ -1,10 +1,10 @@
-![Project Banner](./Images/banner.png)
+![Project Banner](./Images/banner.svg)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![Pandas](https://img.shields.io/badge/Pandas-1.5%2B-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
 [![Seaborn](https://img.shields.io/badge/Seaborn-0.12%2B-38BDF8?style=for-the-badge)](https://seaborn.pydata.org/)
 [![Matplotlib](https://img.shields.io/badge/Matplotlib-3.5%2B-111726?style=for-the-badge)](https://matplotlib.org/)
 
-An end-to-end Data Analytics project analyzing over *12,000 retail transaction records* ($1.39M total gross revenue). This project covers complete data pipeline operations — from data cleaning, missing value imputation, and normalization to exploratory data analysis (EDA), statistical correlation, and executive storytelling through a presentation deck.
+An end-to-end Data Analytics project analyzing over *12,000 retail transaction records* ($1.41M total gross revenue). This project covers complete data pipeline operations — from data cleaning, missing value imputation, and normalization to exploratory data analysis (EDA), statistical correlation, and executive storytelling through a presentation deck.
 
 ---
 
