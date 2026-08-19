@@ -79,7 +79,7 @@ ecommerce-sales-customer-analysis/
 ├── Raw Data/                     # Raw transactional dataset
 └── README.md                     # Project documentation & summary
   <pre>
-![Dashboard Banner](./Power BI Dashboard/banner.svg)
+![Dashboard Banner](./Power BI Dashboard/01 EXECUTIVE OVERVIEW DASHBOARD.png)
 
 ## 👤 Author & Contact Details
 
