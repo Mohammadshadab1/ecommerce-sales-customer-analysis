@@ -79,28 +79,7 @@ ecommerce-sales-customer-analysis/
 ├── Raw Data/                     # Raw transactional dataset
 └── README.md                     # Project documentation & summary
   <pre>
-## 📊 Power BI Dashboard Previews
-
-### 1. Executive Overview Dashboard
-![Executive Overview Dashboard](Power%20BI%20Dashboard/01%20EXECUTIVE%20OVERVIEW%20DASHBOARD.png)
-
-### 2. Operational Deep Dive & Action Insights
-![Operational Deep Dive](Power%20BI%20Dashboard/02%20OPERATIONAL%20DEEP%20DIVE%20%26%20ACTION%20INSIGHTS.png)
-
-### 3. Time Series Trend Performance
-![Time Series Trend Performance](Power%20BI%20Dashboard/03%20TIME%20SERIES%20TREND%20PERFORMANCE.png)
-
-### 4. Customer Demographics & Discount Impact Analysis
-![Customer Demographics](Power%20BI%20Dashboard/04%20Customer%20Demographics%20%26%20Discount%20Impact%20Analysis.png)
-
-### 5. Customer Retention & Order Status Breakdown
-![Customer Retention](Power%20BI%20Dashboard/05%20Customer%20Retention%20%26%20Order%20Status%20Breakdown.png)
-
----
-
-### 📥 Complete Project Report / PDF
-* 👉 [View / Download Ecommerce PDF Report](Power%20BI%20Dashboard/Ecommerce.pdf)
-*
+![Dashboard Banner](./Power BI Dashboard/banner.svg)
 
 ## 👤 Author & Contact Details
 
