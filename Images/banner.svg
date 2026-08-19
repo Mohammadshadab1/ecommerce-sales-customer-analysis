@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 400" width="100%" height="100%">
+  <defs>
+    <!-- Background Gradient -->
+    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0b1329" />
+      <stop offset="100%" stop-color="#111c38" />
+    </linearGradient>
+    
+    <!-- Card Background Gradient -->
+    <linearGradient id="cardGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#152248" stop-opacity="0.8" />
+      <stop offset="100%" stop-color="#0e1736" stop-opacity="0.8" />
+    </linearGradient>
+
+    <!-- Badge Background Gradient -->
+    <linearGradient id="badgeGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#112444" />
+      <stop offset="100%" stop-color="#183466" />
+    </linearGradient>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1200" height="400" fill="url(#bgGradient)" />
+
+  <!-- Decorative Background Circles/Glow -->
+  <circle cx="1050" cy="150" r="180" fill="#1b2d5c" opacity="0.4" />
+  <circle cx="1100" cy="200" r="120" fill="#223a70" opacity="0.3" />
+
+  <!-- TOP BADGE -->
+  <g transform="translate(60, 50)">
+    <rect width="280" height="34" rx="17" fill="url(#badgeGradient)" stroke="#2b4c8c" stroke-width="1" />
+    <text x="20" y="22" fill="#38bdf8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="700" letter-spacing="1.5">DATA ANALYTICS PORTFOLIO</text>
+  </g>
+
+  <!-- MAIN TITLE & SUBTITLE -->
+  <text x="60" y="125" fill="#ffffff" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="36" font-weight="800" letter-spacing="-0.5">E-Commerce Retail Sales &amp; Customer Analytics</text>
+  <text x="60" y="155" fill="#94a3b8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="15" font-weight="400">End-to-End Data Pipeline, Pricing Dynamics &amp; Operational SLAs (12K+ Transactions)</text>
+
+  <!-- METRIC CARDS -->
+  <!-- Card 1: Gross Revenue ($1.41M) -->
+  <g transform="translate(60, 190)">
+    <rect width="220" height="95" rx="12" fill="url(#cardGradient)" stroke="#223663" stroke-width="1.5" />
+    <text x="22" y="45" fill="#38bdf8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="28" font-weight="800">$1.41M</text>
+    <text x="22" y="70" fill="#94a3b8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="13" font-weight="500">Gross Revenue</text>
+  </g>
+
+  <!-- Card 2: Total Orders (12,000+) -->
+  <g transform="translate(300, 190)">
+    <rect width="220" height="95" rx="12" fill="url(#cardGradient)" stroke="#223663" stroke-width="1.5" />
+    <text x="22" y="45" fill="#38bdf8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="28" font-weight="800">12,000+</text>
+    <text x="22" y="70" fill="#94a3b8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="13" font-weight="500">Total Orders</text>
+  </g>
+
+  <!-- Card 3: Repeat Customer Rate (88.47%) -->
+  <g transform="translate(540, 190)">
+    <rect width="220" height="95" rx="12" fill="url(#cardGradient)" stroke="#223663" stroke-width="1.5" />
+    <text x="22" y="45" fill="#38bdf8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="28" font-weight="800">88.47%</text>
+    <text x="22" y="70" fill="#94a3b8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="13" font-weight="500">Repeat Customer Rate</text>
+  </g>
+
+  <!-- FOOTER SECTION -->
+  <!-- Divider Line -->
+  <line x1="60" y1="325" x2="1140" y2="325" stroke="#223663" stroke-width="1" />
+
+  <!-- Author & Project Info -->
+  <text x="60" y="358" fill="#ffffff" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="14" font-weight="600">Created by Mohammad Shadab</text>
+  <text x="255" y="358" fill="#223663" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="14" font-weight="600">|</text>
+  <text x="275" y="358" fill="#38bdf8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="14" font-weight="500">Data Analyst Portfolio Project</text>
+
+  <!-- Tech Stack (Updated with Power BI, Power Query, DAX) -->
+  <text x="1140" y="358" text-anchor="end" fill="#94a3b8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="13" font-weight="500">Python • Pandas • Seaborn • Matplotlib • EDA • Power BI • Power Query • DAX</text>
+</svg>
