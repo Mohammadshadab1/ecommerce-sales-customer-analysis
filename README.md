@@ -62,19 +62,19 @@ An end-to-end Data Analytics project analyzing over *12,000 retail transaction r
 *Interactive executive dashboards built in Power BI for deep-dive business intelligence.*
 
 ### 01 Executive Overview Dashboard
-![Executive Overview Dashboard](./Power%20BI%20Dashboard/01%20EXECUTIVE%20OVERVIEW%20DASHBOARD.png)
+<img src="./Power%20BI%20Dashboard/01%20EXECUTIVE%20OVERVIEW%20DASHBOARD.png" alt="Executive Overview Dashboard" width="100%"/>
 
 ### 02 Operational Deep Dive & Action Insights
-![Operational Deep Dive & Action Insights](./Power%20BI%20Dashboard/02%20OPERATIONAL%20DEEP%20DIVE%20%26%20ACTION%20INSIGHTS.png)
+<img src="./Power%20BI%20Dashboard/02%20OPERATIONAL%20DEEP%20DIVE%20%26%20ACTION%20INSIGHTS.png" alt="Operational Deep Dive & Action Insights" width="100%"/>
 
 ### 03 Time Series Trend Performance
-![Time Series Trend Performance](./Power%20BI%20Dashboard/03%20TIME%20SERIES%20TREND%20PERFORMANCE.png)
+<img src="./Power%20BI%20Dashboard/03%20TIME%20SERIES%20TREND%20PERFORMANCE.png" alt="Time Series Trend Performance" width="100%"/>
 
 ### 04 Customer Demographics & Discount Impact Analysis
-![Customer Demographics & Discount Impact Analysis](./Power%20BI%20Dashboard/04%20Customer%20Demographics%20%26%20Discount%20Impact%20Analysis.png)
+<img src="./Power%20BI%20Dashboard/04%20Customer%20Demographics%20%26%20Discount%20Impact%20Analysis.png" alt="Customer Demographics & Discount Impact Analysis" width="100%"/>
 
 ### 05 Customer Retention & Order Status Breakdown
-![Customer Retention & Order Status Breakdown](./Power%20BI%20Dashboard/05%20Customer%20Retention%20%26%20Order%20Status%20Breakdown.png)
+<img src="./Power%20BI%20Dashboard/05%20Customer%20Retention%20%26%20Order%20Status%20Breakdown.png" alt="Customer Retention & Order Status Breakdown" width="100%"/>
 
 ---
 
