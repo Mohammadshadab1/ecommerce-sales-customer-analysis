@@ -79,10 +79,7 @@ ecommerce-sales-customer-analysis/
 ├── Raw Data/                     # Raw transactional dataset
 └── README.md                     # Project documentation & summary
   <pre>
----
 ## 📊 Power BI Dashboard Previews
-
-Yahan aap hamare E-Commerce Sales & Customer Analysis dashboard ke key views dekh sakte hain:
 
 ### 1. Executive Overview Dashboard
 ![Executive Overview Dashboard](Power%20BI%20Dashboard/01%20EXECUTIVE%20OVERVIEW%20DASHBOARD.png)
@@ -102,7 +99,6 @@ Yahan aap hamare E-Commerce Sales & Customer Analysis dashboard ke key views dek
 ---
 
 ### 📥 Complete Project Report / PDF
-Aap poori report ko PDF format mein yahan se access kar sakte hain:
 * 👉 [View / Download Ecommerce PDF Report](Power%20BI%20Dashboard/Ecommerce.pdf)
 *
 
