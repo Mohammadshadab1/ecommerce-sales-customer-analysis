@@ -93,13 +93,14 @@ An end-to-end Data Analytics project analyzing over *12,000 retail transaction r
 <pre>
 ecommerce-sales-customer-analysis/
 │
-├── Clean Data/                   # Cleaned and processed dataset
-├── Images/                       # High-resolution saved charts & visualizations
-├── Notebook/                     # Jupyter Notebook with complete Python code & EDA
-├── Persentation/                 # 10-Slide Executive PDF Presentation Deck
-├── Power BI Dashboard/           # Power BI dashboard exports (PNG & PDF)
-├── Raw Data/                     # Raw transactional dataset
-└── README.md                     # Project documentation & summary
+├── Clean Data/             # Cleaned and processed dataset
+├── Images/                 # High-resolution saved charts & visualizations
+├── Notebook/               # Jupyter Notebook with complete Python code & EDA
+├── Presentation/           # 14-Slide Executive PDF Presentation Deck
+├── Power BI/               # Power BI project file (.pbix) & related assets
+├── Power BI Dashboard/     # Power BI dashboard exports (PNG & PDF)
+├── Raw Data/               # Raw transactional dataset
+└── README.md               # Project documentation & summary
 </pre>
 
 ## 👤 Author & Contact Details
