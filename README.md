@@ -93,6 +93,12 @@ An end-to-end Data Analytics project analyzing over *12,000 retail transaction r
 <pre>
 ecommerce-sales-customer-analysis/
 │
+├── AI Version/ 
+│       ├──   # Ecommerce_Retail_Transactions_Full_Report.pptx
+│       ├──   # Ecommerce_Retail_Transactions_Report.pdf
+│       ├──   # Ecommerce_Retail_Transaction_CLEANED.csv
+│       └──   # etc.
+│ 
 ├── Clean Data/             # Cleaned and processed dataset
 ├── Images/                 # High-resolution saved charts & visualizations
 ├── Notebook/               # Jupyter Notebook with complete Python code & EDA
