@@ -1,0 +1,10 @@
+Country,"Shipping City",Revenue,Total_Orders,rn
+UAE,"Abu Dhabi",89412,702,1
+UAE,Dubai,75516,648,2
+UAE,Unknown,9801,75,3
+UK,London,54932,456,1
+UK,Birmingham,53774,470,2
+UK,Manchester,49683,463,3
+USA,Chicago,48338,352,1
+USA,"New York",39451,354,2
+USA,Houston,35867,318,3

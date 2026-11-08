@@ -1,0 +1,5 @@
+Discount_Tier,Order_Counts,Total_Units,avg_units_per_order,AOV
+"High Discount(>15%)",942,1886,2.00,95.19
+"Low Discount(1%-5%)",1816,3648,2.01,116.17
+"Midium Discount(6%-15%)",3128,6406,2.05,110.9
+"No Discount(0%)",3903,8131,2.08,129.73
