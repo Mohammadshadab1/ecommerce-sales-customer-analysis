@@ -13,7 +13,7 @@ The repository also includes a standalone HTML dashboard and a revised report. B
 ## Start here
 
 - [Interactive HTML dashboard](Dashboard/index.html) — download and open in a browser; no installation or internet required.
-- [Analysis report — PDF](Report/Ecommerce_Analysis_Report.pdf) / [editable Word version](Report/Ecommerce_Analysis_Report.docx)
+- [Analysis report — PDF](Report/Ecommerce_Analysis_Report.pdf)
 - [Python notebook](Notebook/Ecommerce.ipynb)
 - [12 SQL queries](SQL%20Script/E-Commerce%20Analytics%20Queries.sql) and [saved outputs](SQL%20Otputs/)
 - [Existing Power BI dashboard PDF](Power%20BI%20Dashboard/Ecommerce.pdf) / [editable PBIX](Power%20BI/Ecommerce.pbix)
